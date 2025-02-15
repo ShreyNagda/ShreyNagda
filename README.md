@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Shrey Nagda! 👋</h1>
 <p align="center">
-  <img src="[YOUR_PROFILE_PICTURE_URL](https://avatars.githubusercontent.com/u/67016804?s=400&u=aa70503221c9c29e092d5016767845127fa36003&v=4)" width="150" height="150" style="border-radius: 50%;" alt="Shrey Nagda">
+  <img src="https://avatars.githubusercontent.com/u/67016804?v=4" width="150" height="150" style="border-radius: 50%;" alt="Shrey Nagda">
 </p>
 
 <h3 align="center">🚀 Full Stack Web Developer | Flutter Developer | Tech Enthusiast</h3>
@@ -15,13 +15,13 @@
 
 ### 🛠 Tech Stack & Skills:
 
-| Technology  | Proficiency |
+| Technology  | Proficiency ⭐⭐⭐⭐⭐ |
 |-------------|------------------|
+| React.js    | ⭐⭐⭐⭐⭐ |
+| Next.js     | ⭐⭐⭐⭐⭐ |
 | Node.js     | ⭐⭐⭐⭐☆ |
 | Express.js  | ⭐⭐⭐⭐☆ |
 | MongoDB     | ⭐⭐⭐⭐☆ |
-| React.js    | ⭐⭐⭐⭐⭐ |
-| Next.js     | ⭐⭐⭐⭐⭐ |
 | Firebase    | ⭐⭐⭐⭐☆ |
 | Tailwind CSS | ⭐⭐⭐⭐⭐ |
 | Flutter     | ⭐⭐⭐⭐☆ |

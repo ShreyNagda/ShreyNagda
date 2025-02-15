@@ -1,11 +1,5 @@
 <h1 align="center">Hey there, I'm Shrey Nagda! 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/67016804">
-    <img src="https://avatars.githubusercontent.com/u/67016804?v=4" width="150" height="150" style="border-radius: 50%;" alt="Shrey Nagda">
-  </a>
-</p>
-
 <h3 align="center">🚀 Full Stack Web Developer | Flutter Developer | Tech Enthusiast</h3>
 
 <p align="center">
@@ -34,9 +28,9 @@
 ### 📌 My Projects:
 Here are some of my pinned repositories showcasing my work:
 
-- 🚀 **[Project 1](https://github.com/your-username/project-1)** – A brief description of your project.  
-- 🎨 **[Project 2](https://github.com/your-username/project-2)** – A brief description of your project.  
-- 🔥 **[Project 3](https://github.com/your-username/project-3)** – A brief description of your project.  
+- 🎮 **[Kwizz Game](https://github.com/ShreyNagda/kwizz-game)** – A simple quiz game made using React and OpenTDB API.  
+- ⏳ **[Pomodoro](https://github.com/ShreyNagda/pomodoro)** – A Pomodoro-based productivity timer developed using Flutter.  
+- 🌐 **[GDGoC Website](https://github.com/ShreyNagda/gdgoc-website)** – A website developed for GDGoC APSIT.  
 
 📌 *Check out more on my [GitHub Repositories](https://github.com/ShreyNagda?tab=repositories)!*
 

@@ -3,8 +3,8 @@
 <h3 align="center">🚀 Full Stack Web Developer | Flutter Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  🎓 Final-year B.E. IT student at A. P. Shah Institute of Technology  
-  💻 Passionate about building intuitive, scalable web & mobile apps  
+  🎓 Final-year B.E. IT student at A. P. Shah Institute of Technology <br/>  
+  💻 Passionate about building intuitive, scalable web & mobile apps  <br/>
   🌐 Portfolio: <a href="https://shreyn.vercel.app" target="_blank">shreyn.vercel.app</a>  
 </p>
 

@@ -3,8 +3,8 @@
 <h3 align="center">🚀 Full Stack Web Developer | Flutter Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  🎓 Final-year B.E. IT student at A. P. Shah Institute of Technology <br/>  
-  💻 Passionate about building intuitive, scalable web & mobile apps  <br/>
+  🎓 Final-year B.E. IT student at A. P. Shah Institute of Technology<br />  
+  💻 Passionate about building intuitive, scalable web & mobile apps <br /> 
   🌐 Portfolio: <a href="https://shreyn.vercel.app" target="_blank">shreyn.vercel.app</a>  
 </p>
 
@@ -32,21 +32,31 @@
 
 ### 📌 Featured Projects
 
-#### 🎯 [Kwizz](https://kwizz-trivia.netlify.app) · [GitHub](https://github.com/ShreyNagda/kwizz-react)  
+#### 🎯 Kwizz  
 A dynamic quiz app with category filters & real-time questions using the Open Trivia API.  
-**Tech:** Next.js, Tailwind CSS, API Integration
+**Tech Used:** Next.js, Tailwind CSS, Open Trivia API  
+🔗 [Live Demo](http://kwizz-trivia.netlify.app) • [GitHub Repository](https://github.com/ShreyNagda/kwizz-react)
 
-#### ⏱ [Focus Flow Timer](http://focus-flow-timer.netlify.app) · [GitHub](https://github.com/ShreyNagda/pomodoro)  
+---
+
+#### ⏱ Focus Flow Timer  
 A Pomodoro-based productivity timer with session tracking, theme toggling, and alert system.  
-**Tech:** React, JavaScript
+**Tech Used:** React, JavaScript  
+🔗 [Live Demo](http://focus-flow-timer.netlify.app) • [GitHub Repository](https://github.com/ShreyNagda/pomodoro)
 
-#### 📸 [Fraymer](https://fraymer.vercel.app) · [GitHub](https://github.com/ShreyNagda/pola-prints)  
+---
+
+#### 📸 Fraymer  
 Polaroid-style photo generator for saving and framing memories.  
-**Tech:** Next.js, Canvas API
+**Tech Used:** Next.js, Canvas API, Tailwind CSS  
+🔗 [Live Demo](https://fraymer.vercel.app) • [GitHub Repository](https://github.com/ShreyNagda/pola-prints)
 
-#### 🕹️ [Guess Up](https://github.com/ShreyNagda/guess-up)  
-Mobile charades game for Indian youth with Firebase integration and gesture UI.  
-**Tech:** Flutter, Firebase
+---
+
+#### 🕹️ Guess Up  
+Mobile charades game tailored for Indian youth with gesture-based interaction.  
+**Tech Used:** Flutter, Firebase  
+🔗 [GitHub Repository](https://github.com/ShreyNagda/guess-up)
 
 ---
 
@@ -54,7 +64,6 @@ Mobile charades game for Indian youth with Firebase integration and gesture UI.
 
 - 🥇 Winner – Codeverse 2025  
 - 🥈 Finalist – Hackwave 2024  
-- 🏅 Student of the Year – 2020
 
 ---
 

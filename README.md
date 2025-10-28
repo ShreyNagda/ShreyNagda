@@ -68,7 +68,7 @@ My toolkit includes:
 
 ---
 
-####  Insurease 
+#### Insurease
 *Developed Insurease, an AI-powered insurance policy explainer that translates complex policy documents into plain language and supports user queries for enhanced accessibility.*
 **Tech Used:** Next.js, Hugging Face Inference, Generative AI 
 <p>

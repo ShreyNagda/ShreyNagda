@@ -1,4 +1,5 @@
-<img width="2000" height="600" alt="Banner" src="https://github.com/user-attachments/assets/5fe83344-3cf4-431b-a34a-af44a802e945" />
+<img width="2000" height="600" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/9ab4ffed-17b2-45d8-a2ed-919084fb6200" />
+
 
 <h1 align="center">Hey there, I'm Shrey Nagda! 👋</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Flutter Developer | Tech Enthusiast</h3>

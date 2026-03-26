@@ -1,4 +1,4 @@
-<img width="2000" height="600" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/9ab4ffed-17b2-45d8-a2ed-919084fb6200" />
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/4484caf8-5135-4da1-915d-331e6aede09f" />
 
 
 <h1 align="center">Hey there, I'm Shrey Nagda! 👋</h1>
